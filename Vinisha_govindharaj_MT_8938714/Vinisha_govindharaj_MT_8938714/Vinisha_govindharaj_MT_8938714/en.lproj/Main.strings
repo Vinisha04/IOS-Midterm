@@ -1,0 +1,129 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "1GO-Fv-A3T"; */
+"1GO-Fv-A3T.text" = "0";
+
+/* Class = "UILabel"; text = "CANADIAN CITIES"; ObjectID = "5LF-gp-PIa"; */
+"5LF-gp-PIa.text" = "CANADIAN CITIES";
+
+/* Class = "UITabBarItem"; title = "MyWork"; ObjectID = "6eU-GF-mMb"; */
+"6eU-GF-mMb.title" = "MyWork";
+
+/* Class = "UIButton"; configuration.title = "Clear"; ObjectID = "7SD-L1-TfH"; */
+"7SD-L1-TfH.configuration.title" = "Clear";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7SD-L1-TfH"; */
+"7SD-L1-TfH.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Last Name "; ObjectID = "CQt-iv-Rag"; */
+"CQt-iv-Rag.placeholder" = "Last Name ";
+
+/* Class = "UIButton"; configuration.title = "Lab 3"; ObjectID = "DCU-fD-WF5"; */
+"DCU-fD-WF5.configuration.title" = "Lab 3";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DCU-fD-WF5"; */
+"DCU-fD-WF5.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Calculate"; ObjectID = "HHg-Ll-nJ1"; */
+"HHg-Ll-nJ1.configuration.title" = "Calculate";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HHg-Ll-nJ1"; */
+"HHg-Ll-nJ1.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "NIY-Pq-aNq"; */
+"NIY-Pq-aNq.placeholder" = "Country";
+
+/* Class = "UIButton"; configuration.title = "Function Scene"; ObjectID = "NLq-4w-L82"; */
+"NLq-4w-L82.configuration.title" = "Function Scene";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NLq-4w-L82"; */
+"NLq-4w-L82.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Find my city"; ObjectID = "NaX-oa-foE"; */
+"NaX-oa-foE.configuration.title" = "Find my city";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NaX-oa-foE"; */
+"NaX-oa-foE.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Calculator"; ObjectID = "Pk1-dq-oIL"; */
+"Pk1-dq-oIL.title" = "Calculator";
+
+/* Class = "UILabel"; text = "C"; ObjectID = "Ry5-zR-4L6"; */
+"Ry5-zR-4L6.text" = "C";
+
+/* Class = "UIButton"; configuration.title = "Decrease"; ObjectID = "VaT-gr-phY"; */
+"VaT-gr-phY.configuration.title" = "Decrease";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VaT-gr-phY"; */
+"VaT-gr-phY.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "Xdd-Uj-SMf"; */
+"Xdd-Uj-SMf.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xdd-Uj-SMf"; */
+"Xdd-Uj-SMf.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "YXp-pt-uiR"; */
+"YXp-pt-uiR.text" = "A";
+
+/* Class = "UIButton"; configuration.title = "Step=2"; ObjectID = "ap4-Zr-H5j"; */
+"ap4-Zr-H5j.configuration.title" = "Step=2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ap4-Zr-H5j"; */
+"ap4-Zr-H5j.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Quadratic Formula"; ObjectID = "ctH-SU-tah"; */
+"ctH-SU-tah.title" = "Quadratic Formula";
+
+/* Class = "UITabBarItem"; title = "Canada"; ObjectID = "d88-tS-wYy"; */
+"d88-tS-wYy.title" = "Canada";
+
+/* Class = "UIButton"; configuration.title = "Increase"; ObjectID = "egL-rK-wZM"; */
+"egL-rK-wZM.configuration.title" = "Increase";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "egL-rK-wZM"; */
+"egL-rK-wZM.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Reset"; ObjectID = "jrV-e4-6Q8"; */
+"jrV-e4-6Q8.configuration.title" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jrV-e4-6Q8"; */
+"jrV-e4-6Q8.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Add"; ObjectID = "l6Q-By-dsK"; */
+"l6Q-By-dsK.configuration.title" = "Add";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "l6Q-By-dsK"; */
+"l6Q-By-dsK.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "lae-tf-3Qh"; */
+"lae-tf-3Qh.placeholder" = "First Name";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "mhd-yJ-6ei"; */
+"mhd-yJ-6ei.placeholder" = "Age";
+
+/* Class = "UIButton"; configuration.title = "Lab 4"; ObjectID = "ptf-MN-84Z"; */
+"ptf-MN-84Z.configuration.title" = "Lab 4";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ptf-MN-84Z"; */
+"ptf-MN-84Z.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Lab 2"; ObjectID = "qOf-Ia-kC9"; */
+"qOf-Ia-kC9.configuration.title" = "Lab 2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qOf-Ia-kC9"; */
+"qOf-Ia-kC9.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "B"; ObjectID = "rZT-6V-umH"; */
+"rZT-6V-umH.text" = "B";
+
+/* Class = "UIButton"; configuration.title = "Clear"; ObjectID = "rzY-o3-uZp"; */
+"rzY-o3-uZp.configuration.title" = "Clear";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rzY-o3-uZp"; */
+"rzY-o3-uZp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = " My Favorite Hobby is Bike Riding"; ObjectID = "w0P-MG-Dl6"; */
+"w0P-MG-Dl6.text" = " My Favorite Hobby is Bike Riding";
+
+/* Class = "UILabel"; text = "Vinisha Govindharaj"; ObjectID = "z1U-Cp-QVn"; */
+"z1U-Cp-QVn.text" = "Vinisha Govindharaj";
